@@ -20,7 +20,8 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/LehelKasza/NugetProject": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
