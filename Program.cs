@@ -1,5 +1,5 @@
 ﻿using System;
-using KL;
+using library;
 
 namespace KL
 {
@@ -9,7 +9,7 @@ namespace KL
         {
             Console.WriteLine("Hello World!");
 
-            System.Console.WriteLine($"Szamolas: {ClassLib.Add(5, 2)}");
+            System.Console.WriteLine($"Szamolas: {Class1.Add(5, 2)}");
         }
     }
 }
