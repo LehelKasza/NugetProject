@@ -37,3 +37,5 @@ obj/Debug/netcoreapp3.1/KL.dll
 obj/Debug/netcoreapp3.1/KL.exe
 obj/Debug/netcoreapp3.1/KL.genruntimeconfig.cache
 obj/Debug/netcoreapp3.1/KL.pdb
+library/bin/Debug/kasza-lehel.1.0.1.nupkg
+library/obj/Debug/kasza-lehel.1.0.1.nuspec
