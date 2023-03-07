@@ -1,9 +1,0 @@
-C:\data\lkasa\data\Desktop\KL\library\bin\Debug\netstandard2.0\library.deps.json
-C:\data\lkasa\data\Desktop\KL\library\bin\Debug\netstandard2.0\library.dll
-C:\data\lkasa\data\Desktop\KL\library\bin\Debug\netstandard2.0\library.pdb
-C:\data\lkasa\data\Desktop\KL\library\obj\Debug\netstandard2.0\library.csprojAssemblyReference.cache
-C:\data\lkasa\data\Desktop\KL\library\obj\Debug\netstandard2.0\library.AssemblyInfoInputs.cache
-C:\data\lkasa\data\Desktop\KL\library\obj\Debug\netstandard2.0\library.AssemblyInfo.cs
-C:\data\lkasa\data\Desktop\KL\library\obj\Debug\netstandard2.0\library.csproj.CoreCompileInputs.cache
-C:\data\lkasa\data\Desktop\KL\library\obj\Debug\netstandard2.0\library.dll
-C:\data\lkasa\data\Desktop\KL\library\obj\Debug\netstandard2.0\library.pdb
