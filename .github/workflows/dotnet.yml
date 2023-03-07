@@ -16,6 +16,8 @@ jobs:
     - uses: actions/checkout@v3
     - name: Listing
       run: ls
+    - name: Pack
+      run: dotnet pack ./library --configuration Release
     # - name: Setup .NET
     #   uses: actions/setup-dotnet@v3
     #   with:
