@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\data\\lkasa\\data\\Desktop\\KL\\library\\library.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\data\\lkasa\\data\\Desktop\\KL\\library\\library.csproj",
-        "projectName": "library",
+        "projectName": "kasza-lehel",
         "projectPath": "C:\\data\\lkasa\\data\\Desktop\\KL\\library\\library.csproj",
         "packagesPath": "C:\\Users\\lkasa\\.nuget\\packages\\",
         "outputPath": "C:\\data\\lkasa\\data\\Desktop\\KL\\library\\obj\\",
