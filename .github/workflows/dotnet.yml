@@ -19,7 +19,7 @@ jobs:
     - name: Pack
       run: dotnet pack ./library --configuration Release
     - name: Publish
-      run: dotnet nuget push "./library/bin/Release/kasza-lehel.1.0.1.nupkg"  --api-key ${{ secrets.GITHUB_TOKEN }} --source "github"
+      run: dotnet nuget push "./library/bin/Release/kasza-lehel.1.0.1.nupkg"  --api-key ${{ secrets.GITHUB_TOKEN }} --source "https://nuget.pkg.github.com/LehelKasza/index.json"
     # - name: Setup .NET
     #   uses: actions/setup-dotnet@v3
     #   with:
