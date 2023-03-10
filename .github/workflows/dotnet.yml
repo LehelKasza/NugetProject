@@ -17,8 +17,8 @@ jobs:
     - name: Listing
       run: ls
 
-    - name: Build
-      run: dotnte build --no-restore
+    # - name: Build
+    #   run: dotnte build --no-restore
 
     - name: Pack
       run: dotnet pack ./library --configuration Release
