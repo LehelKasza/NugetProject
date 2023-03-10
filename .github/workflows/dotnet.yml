@@ -19,12 +19,16 @@ jobs:
 
     # - name: Build
     #   run: dotnte build --no-restore
+    - name: Setup .NET
+      uses: action/setup-dotnet@v3
+      with:
+        dotnet-version: 3.1.x
 
     - name: Pack
       run: dotnet pack ./library --configuration Release
 
     - name: Push NuGet
-      run: dotnet nuget push "./library/bin/Release/kasza-lehel.1.0.1.nupkg" --api-key ${{ secrets.NUGET_SECRET }} --source "https://nuget.pkg.github.com/LehelKasza/index.json"
+      run: dotnet nuget push "./library/bin/Release/kasza-lehel.1.0.2.nupkg" --api-key ${{ secrets.NUGET_SECRET }} --source "https://nuget.pkg.github.com/LehelKasza/index.json"
     # - name: Setup .NET
     #   uses: actions/setup-dotnet@v3
     #   with:
